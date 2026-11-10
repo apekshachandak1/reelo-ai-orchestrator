@@ -1,0 +1,1838 @@
+{
+  "generated_at": "2026-11-10T09:02:15.596871+00:00",
+  "products": [
+    {
+      "product_id": 1001,
+      "sku": "SKU-1001",
+      "name": "THC Beverage - Cloud 430",
+      "category": "THC Beverage",
+      "flags": {
+        "nicotine": false,
+        "thc": true,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "FL"
+      ],
+      "lab_report_required": false,
+      "price": 151.35,
+      "popularity_score": 0.058
+    },
+    {
+      "product_id": 1002,
+      "sku": "SKU-1002",
+      "name": "Nicotine Vape - Cloud 433",
+      "category": "Nicotine Vape",
+      "flags": {
+        "nicotine": true,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [],
+      "lab_report_required": false,
+      "price": 229.66,
+      "popularity_score": 0.947
+    },
+    {
+      "product_id": 1003,
+      "sku": "SKU-1003",
+      "name": "Kratom Capsules - Drift 70",
+      "category": "Kratom Capsules",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": true,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "ID"
+      ],
+      "lab_report_required": false,
+      "price": 227.62,
+      "popularity_score": 0.682
+    },
+    {
+      "product_id": 1004,
+      "sku": "SKU-1004",
+      "name": "Accessories - Drift 40",
+      "category": "Accessories",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [],
+      "lab_report_required": false,
+      "price": 250.65,
+      "popularity_score": 0.496
+    },
+    {
+      "product_id": 1005,
+      "sku": "SKU-1005",
+      "name": "THC Beverage - Haven 51",
+      "category": "THC Beverage",
+      "flags": {
+        "nicotine": false,
+        "thc": true,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "TX"
+      ],
+      "lab_report_required": false,
+      "price": 213.88,
+      "popularity_score": 0.875
+    },
+    {
+      "product_id": 1006,
+      "sku": "SKU-1006",
+      "name": "Nicotine Vape - Cloud 401",
+      "category": "Nicotine Vape",
+      "flags": {
+        "nicotine": true,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "TX",
+        "WA"
+      ],
+      "lab_report_required": false,
+      "price": 226.77,
+      "popularity_score": 0.789
+    },
+    {
+      "product_id": 1007,
+      "sku": "SKU-1007",
+      "name": "CBD Gummies - Cloud 41",
+      "category": "CBD Gummies",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": true,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "ID",
+        "NY",
+        "OR"
+      ],
+      "lab_report_required": false,
+      "price": 129.37,
+      "popularity_score": 0.578
+    },
+    {
+      "product_id": 1008,
+      "sku": "SKU-1008",
+      "name": "CBD Gummies - Haven 403",
+      "category": "CBD Gummies",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": true,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "NY",
+        "TX"
+      ],
+      "lab_report_required": true,
+      "price": 297.44,
+      "popularity_score": 0.398
+    },
+    {
+      "product_id": 1009,
+      "sku": "SKU-1009",
+      "name": "Kratom Capsules - Summit 371",
+      "category": "Kratom Capsules",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": true,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "FL",
+        "TX"
+      ],
+      "lab_report_required": true,
+      "price": 148.64,
+      "popularity_score": 0.884
+    },
+    {
+      "product_id": 1010,
+      "sku": "SKU-1010",
+      "name": "Nicotine Vape - Cloud 258",
+      "category": "Nicotine Vape",
+      "flags": {
+        "nicotine": true,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "MA"
+      ],
+      "lab_report_required": false,
+      "price": 333.79,
+      "popularity_score": 0.182
+    },
+    {
+      "product_id": 1011,
+      "sku": "SKU-1011",
+      "name": "THC Beverage - Cloud 243",
+      "category": "THC Beverage",
+      "flags": {
+        "nicotine": false,
+        "thc": true,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "IL",
+        "TX"
+      ],
+      "lab_report_required": false,
+      "price": 313.75,
+      "popularity_score": 0.875
+    },
+    {
+      "product_id": 1012,
+      "sku": "SKU-1012",
+      "name": "Mushroom Chocolate - Ember 93",
+      "category": "Mushroom Chocolate",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": true
+      },
+      "blocked_states": [
+        "CA",
+        "MA",
+        "NY"
+      ],
+      "lab_report_required": true,
+      "price": 243.49,
+      "popularity_score": 0.102
+    },
+    {
+      "product_id": 1013,
+      "sku": "SKU-1013",
+      "name": "Accessories - Ember 86",
+      "category": "Accessories",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "OR"
+      ],
+      "lab_report_required": false,
+      "price": 256.69,
+      "popularity_score": 0.955
+    },
+    {
+      "product_id": 1014,
+      "sku": "SKU-1014",
+      "name": "CBD Gummies - Summit 389",
+      "category": "CBD Gummies",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": true,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "CA",
+        "ID",
+        "NY",
+        "TX"
+      ],
+      "lab_report_required": true,
+      "price": 332.91,
+      "popularity_score": 0.161
+    },
+    {
+      "product_id": 1015,
+      "sku": "SKU-1015",
+      "name": "THC Beverage - Drift 162",
+      "category": "THC Beverage",
+      "flags": {
+        "nicotine": false,
+        "thc": true,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "IL"
+      ],
+      "lab_report_required": false,
+      "price": 346.42,
+      "popularity_score": 0.696
+    },
+    {
+      "product_id": 1016,
+      "sku": "SKU-1016",
+      "name": "Nicotine Vape - Ember 388",
+      "category": "Nicotine Vape",
+      "flags": {
+        "nicotine": true,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "MA",
+        "OR"
+      ],
+      "lab_report_required": false,
+      "price": 322.9,
+      "popularity_score": 0.2
+    },
+    {
+      "product_id": 1017,
+      "sku": "SKU-1017",
+      "name": "THC Beverage - Summit 498",
+      "category": "THC Beverage",
+      "flags": {
+        "nicotine": false,
+        "thc": true,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "ID",
+        "MA",
+        "UT"
+      ],
+      "lab_report_required": false,
+      "price": 39.57,
+      "popularity_score": 0.102
+    },
+    {
+      "product_id": 1018,
+      "sku": "SKU-1018",
+      "name": "Kratom Capsules - Summit 419",
+      "category": "Kratom Capsules",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": true,
+        "mushroom": false
+      },
+      "blocked_states": [],
+      "lab_report_required": false,
+      "price": 335.18,
+      "popularity_score": 0.12
+    },
+    {
+      "product_id": 1019,
+      "sku": "SKU-1019",
+      "name": "Mushroom Chocolate - Cloud 381",
+      "category": "Mushroom Chocolate",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": true
+      },
+      "blocked_states": [
+        "FL",
+        "NY"
+      ],
+      "lab_report_required": true,
+      "price": 397.3,
+      "popularity_score": 0.028
+    },
+    {
+      "product_id": 1020,
+      "sku": "SKU-1020",
+      "name": "Mushroom Chocolate - Cloud 17",
+      "category": "Mushroom Chocolate",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": true
+      },
+      "blocked_states": [
+        "IL",
+        "TX"
+      ],
+      "lab_report_required": false,
+      "price": 292.74,
+      "popularity_score": 0.103
+    },
+    {
+      "product_id": 1021,
+      "sku": "SKU-1021",
+      "name": "Nicotine Vape - Summit 142",
+      "category": "Nicotine Vape",
+      "flags": {
+        "nicotine": true,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "IL",
+        "MA"
+      ],
+      "lab_report_required": false,
+      "price": 221.39,
+      "popularity_score": 0.834
+    },
+    {
+      "product_id": 1022,
+      "sku": "SKU-1022",
+      "name": "Mushroom Chocolate - Cloud 456",
+      "category": "Mushroom Chocolate",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": true
+      },
+      "blocked_states": [
+        "IL",
+        "OR",
+        "TX"
+      ],
+      "lab_report_required": true,
+      "price": 79.78,
+      "popularity_score": 0.004
+    },
+    {
+      "product_id": 1023,
+      "sku": "SKU-1023",
+      "name": "CBD Gummies - Summit 359",
+      "category": "CBD Gummies",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": true,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [],
+      "lab_report_required": false,
+      "price": 225.73,
+      "popularity_score": 0.784
+    },
+    {
+      "product_id": 1024,
+      "sku": "SKU-1024",
+      "name": "Nicotine Vape - Drift 24",
+      "category": "Nicotine Vape",
+      "flags": {
+        "nicotine": true,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "CA",
+        "NY"
+      ],
+      "lab_report_required": false,
+      "price": 305.92,
+      "popularity_score": 0.912
+    },
+    {
+      "product_id": 1025,
+      "sku": "SKU-1025",
+      "name": "Kratom Capsules - Drift 423",
+      "category": "Kratom Capsules",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": true,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "ID"
+      ],
+      "lab_report_required": true,
+      "price": 377.07,
+      "popularity_score": 0.699
+    },
+    {
+      "product_id": 1026,
+      "sku": "SKU-1026",
+      "name": "Accessories - Haven 229",
+      "category": "Accessories",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "NY",
+        "UT",
+        "WA"
+      ],
+      "lab_report_required": false,
+      "price": 36.66,
+      "popularity_score": 0.669
+    },
+    {
+      "product_id": 1027,
+      "sku": "SKU-1027",
+      "name": "Mushroom Chocolate - Ember 122",
+      "category": "Mushroom Chocolate",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": true
+      },
+      "blocked_states": [
+        "ID",
+        "TX"
+      ],
+      "lab_report_required": false,
+      "price": 44.9,
+      "popularity_score": 0.885
+    },
+    {
+      "product_id": 1028,
+      "sku": "SKU-1028",
+      "name": "Mushroom Chocolate - Summit 173",
+      "category": "Mushroom Chocolate",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": true
+      },
+      "blocked_states": [
+        "FL",
+        "IL",
+        "UT"
+      ],
+      "lab_report_required": true,
+      "price": 151.45,
+      "popularity_score": 0.338
+    },
+    {
+      "product_id": 1029,
+      "sku": "SKU-1029",
+      "name": "THC Beverage - Haven 458",
+      "category": "THC Beverage",
+      "flags": {
+        "nicotine": false,
+        "thc": true,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "CA",
+        "IL",
+        "NY"
+      ],
+      "lab_report_required": true,
+      "price": 112.1,
+      "popularity_score": 0.04
+    },
+    {
+      "product_id": 1030,
+      "sku": "SKU-1030",
+      "name": "Nicotine Vape - Drift 302",
+      "category": "Nicotine Vape",
+      "flags": {
+        "nicotine": true,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "FL",
+        "ID",
+        "TX"
+      ],
+      "lab_report_required": false,
+      "price": 201.89,
+      "popularity_score": 0.327
+    },
+    {
+      "product_id": 1031,
+      "sku": "SKU-1031",
+      "name": "Accessories - Summit 52",
+      "category": "Accessories",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "CA",
+        "NY"
+      ],
+      "lab_report_required": false,
+      "price": 246.41,
+      "popularity_score": 0.222
+    },
+    {
+      "product_id": 1032,
+      "sku": "SKU-1032",
+      "name": "Kratom Capsules - Haven 490",
+      "category": "Kratom Capsules",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": true,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "CA",
+        "ID",
+        "TX"
+      ],
+      "lab_report_required": true,
+      "price": 71.29,
+      "popularity_score": 0.05
+    },
+    {
+      "product_id": 1033,
+      "sku": "SKU-1033",
+      "name": "THC Beverage - Haven 148",
+      "category": "THC Beverage",
+      "flags": {
+        "nicotine": false,
+        "thc": true,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "ID"
+      ],
+      "lab_report_required": true,
+      "price": 15.12,
+      "popularity_score": 0.25
+    },
+    {
+      "product_id": 1034,
+      "sku": "SKU-1034",
+      "name": "Kratom Capsules - Ember 64",
+      "category": "Kratom Capsules",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": true,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "IL"
+      ],
+      "lab_report_required": false,
+      "price": 262.84,
+      "popularity_score": 0.657
+    },
+    {
+      "product_id": 1035,
+      "sku": "SKU-1035",
+      "name": "THC Beverage - Summit 37",
+      "category": "THC Beverage",
+      "flags": {
+        "nicotine": false,
+        "thc": true,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "TX"
+      ],
+      "lab_report_required": false,
+      "price": 13.59,
+      "popularity_score": 0.625
+    },
+    {
+      "product_id": 1036,
+      "sku": "SKU-1036",
+      "name": "Mushroom Chocolate - Cloud 245",
+      "category": "Mushroom Chocolate",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": true
+      },
+      "blocked_states": [
+        "ID",
+        "IL",
+        "MA"
+      ],
+      "lab_report_required": true,
+      "price": 113.46,
+      "popularity_score": 0.004
+    },
+    {
+      "product_id": 1037,
+      "sku": "SKU-1037",
+      "name": "Accessories - Haven 10",
+      "category": "Accessories",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "MA",
+        "UT"
+      ],
+      "lab_report_required": false,
+      "price": 139.45,
+      "popularity_score": 0.084
+    },
+    {
+      "product_id": 1038,
+      "sku": "SKU-1038",
+      "name": "Accessories - Summit 428",
+      "category": "Accessories",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [],
+      "lab_report_required": false,
+      "price": 43.18,
+      "popularity_score": 0.4
+    },
+    {
+      "product_id": 1039,
+      "sku": "SKU-1039",
+      "name": "THC Beverage - Drift 446",
+      "category": "THC Beverage",
+      "flags": {
+        "nicotine": false,
+        "thc": true,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "MA",
+        "NY"
+      ],
+      "lab_report_required": false,
+      "price": 265.76,
+      "popularity_score": 0.716
+    },
+    {
+      "product_id": 1040,
+      "sku": "SKU-1040",
+      "name": "Kratom Capsules - Drift 331",
+      "category": "Kratom Capsules",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": true,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "CA"
+      ],
+      "lab_report_required": true,
+      "price": 282.81,
+      "popularity_score": 0.506
+    },
+    {
+      "product_id": 1041,
+      "sku": "SKU-1041",
+      "name": "Nicotine Vape - Drift 35",
+      "category": "Nicotine Vape",
+      "flags": {
+        "nicotine": true,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "FL",
+        "NY"
+      ],
+      "lab_report_required": false,
+      "price": 254.08,
+      "popularity_score": 0.626
+    },
+    {
+      "product_id": 1042,
+      "sku": "SKU-1042",
+      "name": "Mushroom Chocolate - Cloud 391",
+      "category": "Mushroom Chocolate",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": true
+      },
+      "blocked_states": [],
+      "lab_report_required": false,
+      "price": 106.86,
+      "popularity_score": 0.074
+    },
+    {
+      "product_id": 1043,
+      "sku": "SKU-1043",
+      "name": "Nicotine Vape - Summit 402",
+      "category": "Nicotine Vape",
+      "flags": {
+        "nicotine": true,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "FL",
+        "NY",
+        "WA"
+      ],
+      "lab_report_required": false,
+      "price": 26.33,
+      "popularity_score": 0.633
+    },
+    {
+      "product_id": 1044,
+      "sku": "SKU-1044",
+      "name": "Nicotine Vape - Haven 16",
+      "category": "Nicotine Vape",
+      "flags": {
+        "nicotine": true,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "ID",
+        "OR"
+      ],
+      "lab_report_required": false,
+      "price": 197.11,
+      "popularity_score": 0.486
+    },
+    {
+      "product_id": 1045,
+      "sku": "SKU-1045",
+      "name": "Mushroom Chocolate - Cloud 467",
+      "category": "Mushroom Chocolate",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": true
+      },
+      "blocked_states": [
+        "OR",
+        "WA"
+      ],
+      "lab_report_required": false,
+      "price": 130.18,
+      "popularity_score": 0.086
+    },
+    {
+      "product_id": 1046,
+      "sku": "SKU-1046",
+      "name": "Kratom Capsules - Haven 48",
+      "category": "Kratom Capsules",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": true,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "FL",
+        "ID",
+        "MA"
+      ],
+      "lab_report_required": false,
+      "price": 63.56,
+      "popularity_score": 0.524
+    },
+    {
+      "product_id": 1047,
+      "sku": "SKU-1047",
+      "name": "THC Beverage - Haven 264",
+      "category": "THC Beverage",
+      "flags": {
+        "nicotine": false,
+        "thc": true,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [],
+      "lab_report_required": false,
+      "price": 198.57,
+      "popularity_score": 0.025
+    },
+    {
+      "product_id": 1048,
+      "sku": "SKU-1048",
+      "name": "CBD Gummies - Summit 71",
+      "category": "CBD Gummies",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": true,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "CA",
+        "FL",
+        "ID",
+        "TX"
+      ],
+      "lab_report_required": false,
+      "price": 8.68,
+      "popularity_score": 0.751
+    },
+    {
+      "product_id": 1049,
+      "sku": "SKU-1049",
+      "name": "Mushroom Chocolate - Ember 455",
+      "category": "Mushroom Chocolate",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": true
+      },
+      "blocked_states": [
+        "CA",
+        "ID",
+        "UT"
+      ],
+      "lab_report_required": false,
+      "price": 149.4,
+      "popularity_score": 0.428
+    },
+    {
+      "product_id": 1050,
+      "sku": "SKU-1050",
+      "name": "Mushroom Chocolate - Ember 271",
+      "category": "Mushroom Chocolate",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": true
+      },
+      "blocked_states": [
+        "MA",
+        "TX"
+      ],
+      "lab_report_required": true,
+      "price": 311.09,
+      "popularity_score": 0.785
+    },
+    {
+      "product_id": 1051,
+      "sku": "SKU-1051",
+      "name": "Kratom Capsules - Ember 240",
+      "category": "Kratom Capsules",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": true,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "CA",
+        "NY"
+      ],
+      "lab_report_required": false,
+      "price": 62.32,
+      "popularity_score": 0.869
+    },
+    {
+      "product_id": 1052,
+      "sku": "SKU-1052",
+      "name": "CBD Gummies - Summit 217",
+      "category": "CBD Gummies",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": true,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "CA",
+        "ID",
+        "IL",
+        "UT"
+      ],
+      "lab_report_required": false,
+      "price": 125.93,
+      "popularity_score": 0.557
+    },
+    {
+      "product_id": 1053,
+      "sku": "SKU-1053",
+      "name": "Accessories - Ember 291",
+      "category": "Accessories",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "IL"
+      ],
+      "lab_report_required": false,
+      "price": 94.25,
+      "popularity_score": 0.906
+    },
+    {
+      "product_id": 1054,
+      "sku": "SKU-1054",
+      "name": "Nicotine Vape - Drift 56",
+      "category": "Nicotine Vape",
+      "flags": {
+        "nicotine": true,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "CA"
+      ],
+      "lab_report_required": false,
+      "price": 133.16,
+      "popularity_score": 0.368
+    },
+    {
+      "product_id": 1055,
+      "sku": "SKU-1055",
+      "name": "Kratom Capsules - Cloud 265",
+      "category": "Kratom Capsules",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": true,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "CA",
+        "FL"
+      ],
+      "lab_report_required": true,
+      "price": 387.33,
+      "popularity_score": 0.126
+    },
+    {
+      "product_id": 1056,
+      "sku": "SKU-1056",
+      "name": "Mushroom Chocolate - Ember 373",
+      "category": "Mushroom Chocolate",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": true
+      },
+      "blocked_states": [
+        "CA",
+        "FL",
+        "ID"
+      ],
+      "lab_report_required": false,
+      "price": 323.27,
+      "popularity_score": 0.968
+    },
+    {
+      "product_id": 1057,
+      "sku": "SKU-1057",
+      "name": "CBD Gummies - Drift 359",
+      "category": "CBD Gummies",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": true,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "CA",
+        "MA",
+        "NY",
+        "OR"
+      ],
+      "lab_report_required": true,
+      "price": 331.55,
+      "popularity_score": 0.701
+    },
+    {
+      "product_id": 1058,
+      "sku": "SKU-1058",
+      "name": "Accessories - Drift 480",
+      "category": "Accessories",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "MA"
+      ],
+      "lab_report_required": false,
+      "price": 22.74,
+      "popularity_score": 0.715
+    },
+    {
+      "product_id": 1059,
+      "sku": "SKU-1059",
+      "name": "Mushroom Chocolate - Drift 108",
+      "category": "Mushroom Chocolate",
+      "flags": {
+        "nicotine": false,
+        "thc": false,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": true
+      },
+      "blocked_states": [
+        "CA",
+        "IL",
+        "NY",
+        "OR"
+      ],
+      "lab_report_required": true,
+      "price": 95.64,
+      "popularity_score": 0.601
+    },
+    {
+      "product_id": 1060,
+      "sku": "SKU-1060",
+      "name": "THC Beverage - Drift 136",
+      "category": "THC Beverage",
+      "flags": {
+        "nicotine": false,
+        "thc": true,
+        "cbd": false,
+        "kratom": false,
+        "mushroom": false
+      },
+      "blocked_states": [
+        "MA",
+        "WA"
+      ],
+      "lab_report_required": true,
+      "price": 169.43,
+      "popularity_score": 0.65
+    }
+  ],
+  "inventory": [
+    {
+      "product_id": 1001,
+      "warehouse": "NY",
+      "qty": 222
+    },
+    {
+      "product_id": 1001,
+      "warehouse": "LA",
+      "qty": 214
+    },
+    {
+      "product_id": 1001,
+      "warehouse": "TX",
+      "qty": 35
+    },
+    {
+      "product_id": 1002,
+      "warehouse": "LA",
+      "qty": 25
+    },
+    {
+      "product_id": 1002,
+      "warehouse": "TX",
+      "qty": 113
+    },
+    {
+      "product_id": 1002,
+      "warehouse": "NY",
+      "qty": 23
+    },
+    {
+      "product_id": 1003,
+      "warehouse": "NY",
+      "qty": 190
+    },
+    {
+      "product_id": 1004,
+      "warehouse": "IL",
+      "qty": 299
+    },
+    {
+      "product_id": 1004,
+      "warehouse": "NY",
+      "qty": 232
+    },
+    {
+      "product_id": 1004,
+      "warehouse": "TX",
+      "qty": 185
+    },
+    {
+      "product_id": 1005,
+      "warehouse": "IL",
+      "qty": 60
+    },
+    {
+      "product_id": 1005,
+      "warehouse": "NY",
+      "qty": 262
+    },
+    {
+      "product_id": 1005,
+      "warehouse": "LA",
+      "qty": 214
+    },
+    {
+      "product_id": 1006,
+      "warehouse": "TX",
+      "qty": 179
+    },
+    {
+      "product_id": 1006,
+      "warehouse": "IL",
+      "qty": 304
+    },
+    {
+      "product_id": 1007,
+      "warehouse": "IL",
+      "qty": 342
+    },
+    {
+      "product_id": 1007,
+      "warehouse": "NY",
+      "qty": 177
+    },
+    {
+      "product_id": 1007,
+      "warehouse": "TX",
+      "qty": 11
+    },
+    {
+      "product_id": 1008,
+      "warehouse": "LA",
+      "qty": 229
+    },
+    {
+      "product_id": 1008,
+      "warehouse": "IL",
+      "qty": 205
+    },
+    {
+      "product_id": 1009,
+      "warehouse": "NY",
+      "qty": 42
+    },
+    {
+      "product_id": 1010,
+      "warehouse": "LA",
+      "qty": 214
+    },
+    {
+      "product_id": 1010,
+      "warehouse": "IL",
+      "qty": 273
+    },
+    {
+      "product_id": 1011,
+      "warehouse": "IL",
+      "qty": 201
+    },
+    {
+      "product_id": 1011,
+      "warehouse": "NY",
+      "qty": 53
+    },
+    {
+      "product_id": 1011,
+      "warehouse": "TX",
+      "qty": 246
+    },
+    {
+      "product_id": 1012,
+      "warehouse": "NY",
+      "qty": 186
+    },
+    {
+      "product_id": 1012,
+      "warehouse": "TX",
+      "qty": 314
+    },
+    {
+      "product_id": 1012,
+      "warehouse": "LA",
+      "qty": 13
+    },
+    {
+      "product_id": 1013,
+      "warehouse": "TX",
+      "qty": 59
+    },
+    {
+      "product_id": 1013,
+      "warehouse": "NY",
+      "qty": 249
+    },
+    {
+      "product_id": 1013,
+      "warehouse": "LA",
+      "qty": 238
+    },
+    {
+      "product_id": 1014,
+      "warehouse": "NY",
+      "qty": 270
+    },
+    {
+      "product_id": 1015,
+      "warehouse": "TX",
+      "qty": 182
+    },
+    {
+      "product_id": 1015,
+      "warehouse": "LA",
+      "qty": 395
+    },
+    {
+      "product_id": 1016,
+      "warehouse": "TX",
+      "qty": 14
+    },
+    {
+      "product_id": 1016,
+      "warehouse": "IL",
+      "qty": 14
+    },
+    {
+      "product_id": 1017,
+      "warehouse": "NY",
+      "qty": 104
+    },
+    {
+      "product_id": 1017,
+      "warehouse": "IL",
+      "qty": 247
+    },
+    {
+      "product_id": 1018,
+      "warehouse": "NY",
+      "qty": 91
+    },
+    {
+      "product_id": 1018,
+      "warehouse": "IL",
+      "qty": 222
+    },
+    {
+      "product_id": 1019,
+      "warehouse": "IL",
+      "qty": 313
+    },
+    {
+      "product_id": 1019,
+      "warehouse": "TX",
+      "qty": 305
+    },
+    {
+      "product_id": 1019,
+      "warehouse": "LA",
+      "qty": 242
+    },
+    {
+      "product_id": 1020,
+      "warehouse": "NY",
+      "qty": 108
+    },
+    {
+      "product_id": 1020,
+      "warehouse": "IL",
+      "qty": 14
+    },
+    {
+      "product_id": 1020,
+      "warehouse": "LA",
+      "qty": 128
+    },
+    {
+      "product_id": 1021,
+      "warehouse": "TX",
+      "qty": 234
+    },
+    {
+      "product_id": 1022,
+      "warehouse": "NY",
+      "qty": 72
+    },
+    {
+      "product_id": 1023,
+      "warehouse": "LA",
+      "qty": 127
+    },
+    {
+      "product_id": 1024,
+      "warehouse": "TX",
+      "qty": 258
+    },
+    {
+      "product_id": 1024,
+      "warehouse": "IL",
+      "qty": 310
+    },
+    {
+      "product_id": 1025,
+      "warehouse": "NY",
+      "qty": 70
+    },
+    {
+      "product_id": 1025,
+      "warehouse": "IL",
+      "qty": 213
+    },
+    {
+      "product_id": 1026,
+      "warehouse": "NY",
+      "qty": 366
+    },
+    {
+      "product_id": 1027,
+      "warehouse": "NY",
+      "qty": 82
+    },
+    {
+      "product_id": 1028,
+      "warehouse": "IL",
+      "qty": 9
+    },
+    {
+      "product_id": 1028,
+      "warehouse": "TX",
+      "qty": 196
+    },
+    {
+      "product_id": 1029,
+      "warehouse": "TX",
+      "qty": 386
+    },
+    {
+      "product_id": 1030,
+      "warehouse": "LA",
+      "qty": 93
+    },
+    {
+      "product_id": 1030,
+      "warehouse": "TX",
+      "qty": 217
+    },
+    {
+      "product_id": 1031,
+      "warehouse": "LA",
+      "qty": 5
+    },
+    {
+      "product_id": 1031,
+      "warehouse": "NY",
+      "qty": 173
+    },
+    {
+      "product_id": 1032,
+      "warehouse": "TX",
+      "qty": 321
+    },
+    {
+      "product_id": 1033,
+      "warehouse": "LA",
+      "qty": 375
+    },
+    {
+      "product_id": 1034,
+      "warehouse": "IL",
+      "qty": 352
+    },
+    {
+      "product_id": 1034,
+      "warehouse": "TX",
+      "qty": 110
+    },
+    {
+      "product_id": 1034,
+      "warehouse": "NY",
+      "qty": 117
+    },
+    {
+      "product_id": 1035,
+      "warehouse": "IL",
+      "qty": 28
+    },
+    {
+      "product_id": 1035,
+      "warehouse": "LA",
+      "qty": 43
+    },
+    {
+      "product_id": 1036,
+      "warehouse": "TX",
+      "qty": 165
+    },
+    {
+      "product_id": 1036,
+      "warehouse": "IL",
+      "qty": 125
+    },
+    {
+      "product_id": 1037,
+      "warehouse": "NY",
+      "qty": 258
+    },
+    {
+      "product_id": 1037,
+      "warehouse": "LA",
+      "qty": 397
+    },
+    {
+      "product_id": 1038,
+      "warehouse": "IL",
+      "qty": 11
+    },
+    {
+      "product_id": 1039,
+      "warehouse": "IL",
+      "qty": 76
+    },
+    {
+      "product_id": 1039,
+      "warehouse": "NY",
+      "qty": 145
+    },
+    {
+      "product_id": 1039,
+      "warehouse": "TX",
+      "qty": 370
+    },
+    {
+      "product_id": 1040,
+      "warehouse": "LA",
+      "qty": 43
+    },
+    {
+      "product_id": 1040,
+      "warehouse": "TX",
+      "qty": 15
+    },
+    {
+      "product_id": 1040,
+      "warehouse": "IL",
+      "qty": 21
+    },
+    {
+      "product_id": 1041,
+      "warehouse": "NY",
+      "qty": 1
+    },
+    {
+      "product_id": 1041,
+      "warehouse": "IL",
+      "qty": 233
+    },
+    {
+      "product_id": 1041,
+      "warehouse": "TX",
+      "qty": 35
+    },
+    {
+      "product_id": 1042,
+      "warehouse": "NY",
+      "qty": 387
+    },
+    {
+      "product_id": 1042,
+      "warehouse": "TX",
+      "qty": 105
+    },
+    {
+      "product_id": 1043,
+      "warehouse": "LA",
+      "qty": 307
+    },
+    {
+      "product_id": 1044,
+      "warehouse": "LA",
+      "qty": 345
+    },
+    {
+      "product_id": 1044,
+      "warehouse": "TX",
+      "qty": 250
+    },
+    {
+      "product_id": 1044,
+      "warehouse": "IL",
+      "qty": 148
+    },
+    {
+      "product_id": 1045,
+      "warehouse": "LA",
+      "qty": 234
+    },
+    {
+      "product_id": 1045,
+      "warehouse": "NY",
+      "qty": 39
+    },
+    {
+      "product_id": 1046,
+      "warehouse": "NY",
+      "qty": 323
+    },
+    {
+      "product_id": 1046,
+      "warehouse": "TX",
+      "qty": 260
+    },
+    {
+      "product_id": 1047,
+      "warehouse": "IL",
+      "qty": 348
+    },
+    {
+      "product_id": 1048,
+      "warehouse": "LA",
+      "qty": 365
+    },
+    {
+      "product_id": 1048,
+      "warehouse": "IL",
+      "qty": 6
+    },
+    {
+      "product_id": 1049,
+      "warehouse": "LA",
+      "qty": 52
+    },
+    {
+      "product_id": 1049,
+      "warehouse": "NY",
+      "qty": 26
+    },
+    {
+      "product_id": 1050,
+      "warehouse": "LA",
+      "qty": 204
+    },
+    {
+      "product_id": 1050,
+      "warehouse": "TX",
+      "qty": 283
+    },
+    {
+      "product_id": 1051,
+      "warehouse": "LA",
+      "qty": 65
+    },
+    {
+      "product_id": 1051,
+      "warehouse": "TX",
+      "qty": 87
+    },
+    {
+      "product_id": 1052,
+      "warehouse": "LA",
+      "qty": 329
+    },
+    {
+      "product_id": 1052,
+      "warehouse": "IL",
+      "qty": 82
+    },
+    {
+      "product_id": 1053,
+      "warehouse": "IL",
+      "qty": 280
+    },
+    {
+      "product_id": 1053,
+      "warehouse": "LA",
+      "qty": 98
+    },
+    {
+      "product_id": 1054,
+      "warehouse": "NY",
+      "qty": 196
+    },
+    {
+      "product_id": 1054,
+      "warehouse": "LA",
+      "qty": 211
+    },
+    {
+      "product_id": 1054,
+      "warehouse": "IL",
+      "qty": 381
+    },
+    {
+      "product_id": 1055,
+      "warehouse": "NY",
+      "qty": 127
+    },
+    {
+      "product_id": 1055,
+      "warehouse": "LA",
+      "qty": 196
+    },
+    {
+      "product_id": 1055,
+      "warehouse": "IL",
+      "qty": 204
+    },
+    {
+      "product_id": 1056,
+      "warehouse": "LA",
+      "qty": 200
+    },
+    {
+      "product_id": 1056,
+      "warehouse": "IL",
+      "qty": 270
+    },
+    {
+      "product_id": 1057,
+      "warehouse": "LA",
+      "qty": 397
+    },
+    {
+      "product_id": 1057,
+      "warehouse": "TX",
+      "qty": 20
+    },
+    {
+      "product_id": 1058,
+      "warehouse": "TX",
+      "qty": 270
+    },
+    {
+      "product_id": 1059,
+      "warehouse": "TX",
+      "qty": 235
+    },
+    {
+      "product_id": 1060,
+      "warehouse": "LA",
+      "qty": 99
+    }
+  ],
+  "customers": [
+    {
+      "customer_id": 1,
+      "state": "CA",
+      "tier": "gold"
+    },
+    {
+      "customer_id": 2,
+      "state": "TX",
+      "tier": "silver"
+    }
+  ],
+  "vendors": [
+    {
+      "vendor_id": 1,
+      "name": "Acme Vapor"
+    },
+    {
+      "vendor_id": 2,
+      "name": "GreenLeaf Co"
+    }
+  ],
+  "kb_docs": [
+    {
+      "doc_id": "SOP-RETURNS",
+      "title": "Returns SOP",
+      "visibility": "internal",
+      "text": "Returns are accepted within 14 days for unopened items. Restocking fee may apply."
+    },
+    {
+      "doc_id": "POLICY-SHIPPING",
+      "title": "Shipping Policy",
+      "visibility": "public",
+      "text": "We ship via LTL freight for most distributor orders. Delivery estimates vary by warehouse and destination."
+    },
+    {
+      "doc_id": "SOP-VENDOR-UPLOAD",
+      "title": "Vendor Catalog Upload Guide",
+      "visibility": "vendor",
+      "text": "Upload via Excel template. Required fields include Net Wt (oz), Net Vol (ml), nicotine content, images, and state restrictions if applicable."
+    }
+  ]
+}
